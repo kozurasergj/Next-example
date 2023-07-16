@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>Booking</title>
       </Head>
-      <h1>Booking-app</h1>
+      <h2>Booking-app</h2>
     </>
   );
 }
